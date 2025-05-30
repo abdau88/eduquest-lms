@@ -1,7 +1,4 @@
-Berikut adalah versi `README.md` yang siap kamu pakai di GitHub untuk proyek `lms-gamifikasi`:
-
-````markdown
-# LMS Gamifikasi
+LMS Gamifikasi
 
 Proyek ini merupakan aplikasi LMS (Learning Management System) dengan fitur gamifikasi, dibangun menggunakan Node.js dan React (atau framework yang relevan).
 
@@ -15,7 +12,7 @@ Masuk ke direktori proyek dan install semua dependensi:
 cd lms-gamifikasi
 npm install --legacy-peer-deps
 ```
-````
+
 
 ---
 
